@@ -10,7 +10,7 @@ This standard is organized in order from most stable to least stable.  The forma
   image-source-identifiers
   permissions-dot-json-file-format
   repositories
-  http-api
+  json-api
   serializations
 
 Subuser standard licence
